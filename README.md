@@ -6,10 +6,11 @@
 
 文章的源码在不同的分支，举个例子：
 
+```shell
 git clone git@github.com:fencex/flink.demo.org.git
 git fetch -p
 git checkout feature-001-simulate-etl
-
+```
 
 
 | 分支                     | 文章说明                                                     |
