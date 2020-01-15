@@ -16,7 +16,7 @@ git checkout feature-001-simulate-etl
 | 分支                     | 文章说明                                                     |
 | ------------------------ | ------------------------------------------------------------ |
 | master                   | [Flink项目最佳实践（一）：初始化项目](https://blog.csdn.net/xzx0524/article/details/103866593) |
-| feature-001-simulate-etl | [Flink项目最佳实践（二）：第一个实时模拟ETL任务](https://editor.csdn.net/md/?articleId=103900230) |
+| feature-001-simulate-etl | [Flink项目最佳实践（二）：第一个实时模拟ETL任务](https://blog.csdn.net/xzx0524/article/details/103900230) |
 |                          |                                                              |
 
 
